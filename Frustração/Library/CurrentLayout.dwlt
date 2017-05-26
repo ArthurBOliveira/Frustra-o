@@ -377,18 +377,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Animation
-  m_ViewMode: 1
+    - Assets/Backgrounds
+  m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Animation
+  - Assets/Backgrounds
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: "C:\\Users\\Public\\Documents\\Unity Projects\\Frustra\xE7\xE3o"
+  m_LastProjectPath: "C:\\Users\\Arthur\\Documents\\Source Tree\\Frustra-o\\Frustra\xE7\xE3o"
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e280000
-    m_LastClickedID: 10350
+    m_SelectedIDs: 6a280000
+    m_LastClickedID: 10346
     m_ExpandedIDs: 0000000024250000602500006e280000f02800003e29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -417,7 +417,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024250000602500006e280000f02800003e290000
+    m_ExpandedIDs: 0000000024250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,7 +679,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 98bdffff90beffff14c1ffffbcc2ffff86c4ffffa8c6ffffecc8ffff44c9ffff4cc9ffff56c9ffff6ec9ffff2ccdffff32ceffffb2d0ffff56d2ffff1cd4ffff3ad6ffff7ad8ffffced8ffffd2d8ffffd8d8ffffecd8ffff04dffffff8dfffff5ae2ffff02e4ffffcce5ffffeee7ffff32eaffff8aeaffff92eaffff9ceaffffb4eaffff56eeffff40efffff9ef1ffff42f3ffff08f5ffff26f7ffff66f9ffffbaf9ffffbef9ffffc4f9ffffd8f9ffffc0fbffff00000000
+    m_ExpandedIDs: c0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
